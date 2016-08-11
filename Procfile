@@ -1,1 +1,1 @@
-worker: python flaskr.py
+web: gunicorn
